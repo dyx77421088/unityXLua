@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 3733182444
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f0d4b26d93e18d4f7352ee67786f9d20
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e8251758c235d9e778b36af587584573
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a63eae02a301ad44a93dd8781eba434, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2083ebd455820b14f96d8b71db2ac064, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 41b7d8d808daed14793058a9661ce621, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Prefebs/UI/PlayerUI/Img_Gun.prefab
+Dependencies: []

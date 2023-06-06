@@ -1,0 +1,68 @@
+ManifestFileVersion: 0
+CRC: 2332345960
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6629aa34bff83efdfe33dc48521bab2d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: eeec76eec72098e874f342374f27738e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3d8a2bbcd06a37b48aeabe6e86606f35, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b2ac4b95977810448800e4d4967646b6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2083ebd455820b14f96d8b71db2ac064, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 789938f6edb3af443b44aa522f346c19, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c020d9acfdf6d042ab8559832896e51, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/Prefebs/UI/PlayerUI/UI_Treasour.prefab
+- Assets/Prefebs/UI/MoveUI/GoldImage.prefab
+Dependencies: []
